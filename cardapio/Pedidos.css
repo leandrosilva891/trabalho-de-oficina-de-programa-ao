@@ -1,0 +1,32 @@
+* {
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+ font-family: "DM Sans", sans-serif;
+
+}
+
+p{
+color: white;
+font-size: 25px;
+}
+
+h1{
+text-align: center;
+font-size: 45px;
+color: white;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1000px;
+  height: 667px;  
+}
+body {
+    background-image: url(/img/fundo\ do\ cardapio\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
